@@ -1,3 +1,4 @@
+mod authorship;
 mod balances;
 mod system;
 
